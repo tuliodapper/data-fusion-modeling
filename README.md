@@ -1,2 +1,2 @@
 # data-fusion-modeling
-Mobile robot designed for a Micromouse competition in UWE-Bristol.
+Assignment for the Data Fusion and Modeling course in UFRGS.
